@@ -41,6 +41,6 @@ Required Python packages (e.g. pandas, numpy, matplotlib, etc.)
 
 ## Acknowledgements
 
-[Data Science Academy for providing the course content](https://www.datascienceacademy.com.br/start)
+[Data Science Academy](https://www.datascienceacademy.com.br/start) for providing the course content]
 
 Open-source community for creating and maintaining the tools used in this repository
