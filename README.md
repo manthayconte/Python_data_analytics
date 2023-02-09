@@ -16,15 +16,15 @@ Exercise 5:
 
 Exercise 6: 
 
-Getting Started
-
 
 Prerequisites
 
 Before starting the exercises, you should have a basic understanding of Python and have the following software installed on your computer:
 
 Python 3.x
+
 Jupyter Notebook or another IDE
+
 Required Python packages (e.g. pandas, numpy, matplotlib, etc.)
 
 Resources
