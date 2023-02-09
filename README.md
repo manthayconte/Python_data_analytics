@@ -1,8 +1,8 @@
-Python for Data Analysis - Exercise Repository
+#Python for Data Analysis - Exercise Repository
 
 This repository contains my solutions to the exercises in the course "Python for Data Analysis" offered by Data Science Academy. The exercises are designed to help me practice and reinforce my skills in using Python for data analysis.
 
-Table of Contents
+##Table of Contents
 
 Exercise 1: Using SQL with Python
 
@@ -17,7 +17,7 @@ Exercise 5:
 Exercise 6: 
 
 
-Prerequisites
+##Prerequisites
 
 Before starting the exercises, you should have a basic understanding of Python and have the following software installed on your computer:
 
@@ -27,7 +27,7 @@ Jupyter Notebook or another IDE
 
 Required Python packages (e.g. pandas, numpy, matplotlib, etc.)
 
-Resources
+##Resources
 
 [Data Science Academy - Python for Data Analysis](https://www.datascienceacademy.com.br/course/analise-de-dados-com-linguagem-python-dsa)
 
@@ -39,7 +39,7 @@ Resources
 
 [Matplotlib Documentation](https://matplotlib.org/stable/users/index.html)
 
-Acknowledgements
+##Acknowledgements
 
 [Data Science Academy for providing the course content](https://www.datascienceacademy.com.br/start)
 
