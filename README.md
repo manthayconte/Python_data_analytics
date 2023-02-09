@@ -39,7 +39,7 @@ Required Python packages (e.g. pandas, numpy, matplotlib, etc.)
 
 [Matplotlib Documentation](https://matplotlib.org/stable/users/index.html)
 
-##Acknowledgements
+## Acknowledgements
 
 [Data Science Academy for providing the course content](https://www.datascienceacademy.com.br/start)
 
