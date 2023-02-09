@@ -29,6 +29,8 @@ Required Python packages (e.g. pandas, numpy, matplotlib, etc.)
 
 ## Resources
 
+<a href="https://www.datascienceacademy.com.br/course/analise-de-dados-com-linguagem-python-dsa" target="_blank">Data Science Academy - Python for Data Analysis</a>
+
 [Data Science Academy - Python for Data Analysis](https://www.datascienceacademy.com.br/course/analise-de-dados-com-linguagem-python-dsa){:target="_blank"}
 
 [Python 3 Documentation](https://docs.python.org/3/){:target="_blank"}
