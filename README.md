@@ -5,11 +5,17 @@ This repository contains my solutions to the exercises in the course "Python for
 Table of Contents
 
 Exercise 1: Using SQL with Python
+
 Exercise 2: 
+
 Exercise 3: 
+
 Exercise 4: 
+
 Exercise 5: 
+
 Exercise 6: 
+
 Getting Started
 
 
