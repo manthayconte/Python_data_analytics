@@ -29,18 +29,18 @@ Required Python packages (e.g. pandas, numpy, matplotlib, etc.)
 
 ## Resources
 
-[Data Science Academy - Python for Data Analysis](https://www.datascienceacademy.com.br/course/analise-de-dados-com-linguagem-python-dsa)
+[Data Science Academy - Python for Data Analysis](https://www.datascienceacademy.com.br/course/analise-de-dados-com-linguagem-python-dsa){:target="_blank"}
 
-[Python 3 Documentation](https://docs.python.org/3/)
+[Python 3 Documentation](https://docs.python.org/3/){:target="_blank"}
 
-[Pandas Documentation](https://pandas.pydata.org/docs/)
+[Pandas Documentation](https://pandas.pydata.org/docs/){:target="_blank"}
 
-[NumPy Documentation](https://numpy.org/doc/stable/)
+[NumPy Documentation](https://numpy.org/doc/stable/){:target="_blank"}
 
-[Matplotlib Documentation](https://matplotlib.org/stable/users/index.html)
+[Matplotlib Documentation](https://matplotlib.org/stable/users/index.html){:target="_blank"}
 
 ## Acknowledgements
 
-[Data Science Academy](https://www.datascienceacademy.com.br/start) for providing the course content]
+[Data Science Academy](https://www.datascienceacademy.com.br/start){:target="_blank"} for providing the course content]
 
 Open-source community for creating and maintaining the tools used in this repository
